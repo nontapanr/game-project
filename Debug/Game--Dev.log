@@ -1,0 +1,92 @@
+﻿  Collision.cpp
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(66,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(66,15): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(66,15): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(66,15): warning C4244:             T=float
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(66,15): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(67,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(67,16): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(67,16): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(67,16): warning C4244:             T=float
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(67,16): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(69,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(69,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(70,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(70,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(132,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(132,42): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(132,42): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(132,42): warning C4244:             T=int
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(132,42): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,55): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,55): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,55): warning C4244:             T=int
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,55): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,42): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,42): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,42): warning C4244:             T=int
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(133,42): warning C4244:         ]
+  Enemy.cpp
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(134,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(134,47): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(134,47): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(134,47): warning C4244:             T=int
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Collision.cpp(134,47): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Enemy.h(10,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Enemy.cpp(24,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Enemy.cpp(36,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Enemy.cpp(48,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+  Main.cpp
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Enemy.cpp(60,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Enemy.h(10,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(67,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(86,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,72): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,72): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,72): warning C4244:             T=unsigned int
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,72): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,48): warning C4244:         with
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,48): warning C4244:         [
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,48): warning C4244:             T=unsigned int
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(237,48): warning C4244:         ]
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(277,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(378,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(406,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(409,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(681,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(702,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(995,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(995,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1003,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1003,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1011,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1011,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1112,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1112,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1120,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  pickup.cpp
+  player.cpp
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\Main.cpp(1120,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\player.cpp(25,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\player.cpp(39,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\player.cpp(52,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  projectile.cpp
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\player.cpp(65,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\projectile.cpp(16,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  random.cpp
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\projectile.cpp(21,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\random.cpp(6,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\random.cpp(7,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\random.cpp(13,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\random.cpp(14,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\random.cpp(20,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  textDisplay.cpp
+  Wall.cpp
+  Generating Code...
+C:\Users\N115P\Desktop\My Office\Programming Fundamental Files\Game--Dev\random.cpp(21,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

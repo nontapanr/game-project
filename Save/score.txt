@@ -1,0 +1,10 @@
+Player2,1600
+Test2,2300
+Test,800
+TheMan,5500
+ProPlayer,9000
+Test,18900Tester,1700
+NongPoom,22000
+PLAYER1,5300
+Player1,1600
+Poom,16700
